@@ -1,0 +1,23 @@
+.mainDiv {
+  width: 30%;
+  margin: 20px auto;
+  background-color: #a1d3b1b8;
+}
+
+@media (max-width: 989px) {
+  .mainDiv {
+    width: 90%;
+  }
+}
+
+a {
+  color: #20b96f !important;
+}
+
+button {
+  background-color: #20b96f !important;
+}
+
+button:hover {
+  background-color: rgba(0, 155, 80, 0.475) !important;
+}

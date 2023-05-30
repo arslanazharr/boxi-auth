@@ -1,0 +1,14 @@
+header {
+  width: 100%;
+  background-color: #20b96f;
+  padding: 10px 20px 10px 20px;
+}
+.navDiv {
+  width: 100%;
+  display: flex;
+}
+
+.navLink {
+  color: white !important;
+  margin-right: 20px;
+}
